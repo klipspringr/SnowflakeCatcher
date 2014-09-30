@@ -54,8 +54,8 @@ public void mouseDragged()
 		int touchX = pmouseX;
 		int touchY = pmouseY;
 		boolean redC = true;
-		stroke(28, 176, 40);
-		fill(28, 176, 40);
+		stroke(177, 232, 242);
+		fill(177,232, 242);
 		redC = true;
 		ellipse(touchX,touchY,15,15);
 		stroke(0);
